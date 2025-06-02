@@ -1,7 +1,7 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 
 <h1 align="center">Hi, I’m Amna Ghafoor</h1>
-<h3 align="center">Final-year CS Student | Co-founder @ FlexiBuild | AI & Product Enthusiast</h3>
+<h3 align="center">Final-year CS Student | Founder @ FlexiBuild | AI & Product Enthusiast</h3>
 
 
 ---
@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 
 - **Final-year Computer Science student** passionate about AI and its real-world impact.
-- **Co-founder of FlexiBuild** – a ConstructionTech startup simplifying home building through AI-driven tools for visualization, smart matching, and project management. Currently incubated at **NICF** under the **She-Venture Program**.
+- **Founder of FlexiBuild** – a ConstructionTech startup simplifying home building through AI-driven tools for visualization, smart matching, and project management. Currently incubated at **NICF** under the **She-Venture Program**.
 - Background in **data analytics**, **product research**, and **machine learning** through the Atomcamp Data Science Bootcamp.
 - Keen to work on **products that bridge tech and impact**, especially in AI, data, and product spaces.
 - Looking to join teams where I can **learn, contribute, and grow with purpose**.
