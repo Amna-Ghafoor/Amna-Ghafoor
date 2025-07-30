@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me
 
-- **CS Grad ** passionate about AI and its real-world impact.
+- ** CS Grad ** passionate about AI and its real-world impact.
 - **Co Founder** – a ConstructionTech startup simplifying home building through AI-driven tools for visualization, smart matching, and project management. Currently incubated at **NICF** under the **She-Venture Program**.
 - Background in **data analytics**, **product research**, and **machine learning** through the Atomcamp Data Science Bootcamp.
 - Keen to work on **products that bridge tech and impact**, especially in AI, data, and product spaces.
