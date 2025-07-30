@@ -1,7 +1,7 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 
 <h1 align="center">Hi, I’m Amna Ghafoor</h1>
-<h3 align="center">CS Grad | AI Intern @ Kangroo Ventures | Specializing in Agentic AI, LLMs & NLP | Open to Opportunities in AI, Data & Tech</h3>
+<h3 align="center">CS Grad | AI Intern @ Kangroo Ventures | Specializing in Agentic AI, LLMs & NLP</h3>
 
 
 ---
